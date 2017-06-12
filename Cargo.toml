@@ -1,0 +1,6 @@
+[package]
+name = "swift-client"
+version = "0.0.1"
+authors = ["Cédric Dumay <cedric.dumay@gmail.com>"]
+
+[dependencies]

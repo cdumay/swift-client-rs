@@ -1,0 +1,8 @@
+# remove Rust folders/files
+target
+Cargo.lock
+.cargo
+
+# remove IntelliJ files
+.idea
+*.iml
